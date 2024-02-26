@@ -1,2 +1,2 @@
 # DFJSSP_data
-Instances of the Dynamic Flexible jobshop scheduling poblem
+These text files contain instances of the dynamic flexible jobshop scheduling problem. There are three types of sizes: small, which have 10 jobs, 6 machines with between 5 and 10 operations; medium, with 20 jobs, 10 machines, and between 10 and 15 operations; and large, which have 30 jobs, 15 machines, and between 10 and 20 operations. Each file has a corresponding 'new' file containing new workshop data (new jobs and machines). For these instances, only a single rescheduling point is considered.
